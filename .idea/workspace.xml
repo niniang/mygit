@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df84738b-73fc-4201-b948-88023759a410" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mygit.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuhan/bean/Yuhan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuhan/bean/Yuhan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuhan/test/CollegeStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuhan/test/CollegeStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuhan/test/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuhan/test/Demo01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuhan/test/Practice01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuhan/test/Practice01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuhan/test/ReadJSON.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuhan/test/ReadJSON.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuhan/test/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuhan/test/Student.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
@@ -67,10 +59,10 @@
       <recent name="E:\IdeaProjects\Test\src\main\java\com\yuhan\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringTest">
-    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuhan.test.Demo01" />
-      <module name="Test" />
+  <component name="RunManager" selected="Application.ObjectTest">
+    <configuration name="ObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuhan.test.ObjectTest" />
+      <module name="mygit" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yuhan.test.*" />
@@ -134,19 +126,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ObjectTest" />
       <item itemvalue="Application.StringTest" />
       <item itemvalue="Application.whileTest" />
-      <item itemvalue="Application.Demo01" />
       <item itemvalue="Application.ReadJSON" />
       <item itemvalue="Application.Practice01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectTest" />
         <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.whileTest" />
         <item itemvalue="Application.Practice01" />
         <item itemvalue="Application.ReadJSON" />
-        <item itemvalue="Application.Demo01" />
       </list>
     </recent_temporary>
   </component>
