@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="df84738b-73fc-4201-b948-88023759a410" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yuhan/test/ObjectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yuhan/test/ObjectTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <recent name="E:\IdeaProjects\Test\src\main\java\com\yuhan\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InstanceTest">
+  <component name="RunManager" selected="Application.StaticTest">
     <configuration name="InstanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yuhan.test.InstanceTest" />
       <module name="mygit" />
@@ -87,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuhan.test.Practice01" />
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuhan.test.StaticTest" />
       <module name="mygit" />
       <extension name="coverage">
         <pattern>
@@ -127,19 +126,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.StaticTest" />
       <item itemvalue="Application.InstanceTest" />
       <item itemvalue="Application.ObjectTest" />
       <item itemvalue="Application.StringTest" />
       <item itemvalue="Application.whileTest" />
-      <item itemvalue="Application.Practice01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticTest" />
         <item itemvalue="Application.InstanceTest" />
         <item itemvalue="Application.ObjectTest" />
         <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.whileTest" />
-        <item itemvalue="Application.Practice01" />
       </list>
     </recent_temporary>
   </component>
