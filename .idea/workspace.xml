@@ -59,7 +59,7 @@
       <recent name="E:\IdeaProjects\Test\src\main\java\com\yuhan\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StaticTest">
+  <component name="RunManager" selected="Application.sortTest">
     <configuration name="InstanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yuhan.test.InstanceTest" />
       <module name="mygit" />
@@ -112,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="whileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuhan.test.whileTest" />
+    <configuration name="sortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuhan.test.sortTest" />
       <module name="mygit" />
       <extension name="coverage">
         <pattern>
@@ -126,19 +126,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.sortTest" />
       <item itemvalue="Application.StaticTest" />
       <item itemvalue="Application.InstanceTest" />
       <item itemvalue="Application.ObjectTest" />
       <item itemvalue="Application.StringTest" />
-      <item itemvalue="Application.whileTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sortTest" />
         <item itemvalue="Application.StaticTest" />
         <item itemvalue="Application.InstanceTest" />
         <item itemvalue="Application.ObjectTest" />
         <item itemvalue="Application.StringTest" />
-        <item itemvalue="Application.whileTest" />
       </list>
     </recent_temporary>
   </component>
