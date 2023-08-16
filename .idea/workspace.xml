@@ -59,7 +59,7 @@
       <recent name="E:\IdeaProjects\Test\src\main\java\com\yuhan\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sortTest">
+  <component name="RunManager" selected="Application.diamondTest">
     <configuration name="InstanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yuhan.test.InstanceTest" />
       <module name="mygit" />
@@ -99,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuhan.test.StringTest" />
+    <configuration name="diamondTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuhan.test.diamondTest" />
       <module name="mygit" />
       <extension name="coverage">
         <pattern>
@@ -126,19 +126,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.diamondTest" />
       <item itemvalue="Application.sortTest" />
       <item itemvalue="Application.StaticTest" />
       <item itemvalue="Application.InstanceTest" />
       <item itemvalue="Application.ObjectTest" />
-      <item itemvalue="Application.StringTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.diamondTest" />
         <item itemvalue="Application.sortTest" />
         <item itemvalue="Application.StaticTest" />
         <item itemvalue="Application.InstanceTest" />
         <item itemvalue="Application.ObjectTest" />
-        <item itemvalue="Application.StringTest" />
       </list>
     </recent_temporary>
   </component>
